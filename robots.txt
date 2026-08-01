@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-q9wd6m.kaladin.dev/sitemap.xml
